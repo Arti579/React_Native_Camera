@@ -3,3 +3,4 @@ First txt
 =======
 First txt b2
 >>>>>>> branch2
+New changes
